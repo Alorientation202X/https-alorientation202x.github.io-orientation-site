@@ -1,0 +1,39 @@
+/* src/style/bibliotheques.css */
+.bibliotheques-container {
+  background-size: cover;
+  background-position: center;
+  padding: 2rem;
+}
+
+.bibliotheques-content {
+  background-color: rgba(2, 69, 78, 0.76);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.resource-card {
+  margin-bottom: 2rem;
+}
+
+.resource-card h3 {
+  margin-bottom: 1rem;
+}
+
+.resource-card ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.resource-card li {
+  margin-bottom: 0.5rem;
+}
+
+.link-style {
+  color: #ffee00;
+  text-decoration: none;
+}
+
+.link-style:hover {
+  text-decoration: underline;
+}
+

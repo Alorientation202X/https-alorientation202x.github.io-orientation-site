@@ -1,0 +1,69 @@
+.results-container {
+    min-height: 100vh;
+    padding: 2rem;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .results-box {
+    background-color: rgba(0, 0, 0, 0.85);
+    color: white;
+    padding: 2rem;
+    border-radius: 12px;
+    max-width: 800px;
+    width: 100%;
+    text-align: left;
+  }
+  
+  .results-logo {
+    width: 80px;
+    float: right;
+    animation: rotate 8s linear infinite;
+  }
+  
+  @keyframes rotate {
+    from { transform: rotateY(0deg); }
+    to { transform: rotateY(360deg); }
+  }
+  
+  .highlight {
+    color: #4caf50;
+    font-weight: bold;
+  }
+  
+  .quote {
+    font-style: italic;
+    margin: 1rem 0;
+    color: #ccc;
+  }
+  
+  .section {
+    margin-top: 1.5rem;
+  }
+  
+  .results-actions {
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .results-actions button {
+    padding: 0.8rem 1.2rem;
+    font-size: 1rem;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .results-actions button:hover {
+    background-color: #388e3c;
+  }
+  

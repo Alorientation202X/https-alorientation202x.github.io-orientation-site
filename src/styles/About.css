@@ -1,0 +1,12 @@
+.about-container {
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.6); /* Pour lisibilité sur fond */
+    border-radius: 10px;
+    max-width: 800px;
+    margin: 60px auto;
+  }
+  .Video-section{
+    width: 200px; /* Taille agrandie ici */
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+  }  

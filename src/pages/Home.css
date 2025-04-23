@@ -1,0 +1,154 @@
+.home-container {
+  min-height: 100vh;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  padding-top: 100px; /* Pour éviter que le contenu passe sous la navbar */
+  color: white;
+  text-align: center;
+}
+
+.rotating-logo {
+  position: absolute;
+  top: 20px;
+  left: 40px;
+  width: 80px;
+  animation: rotate 8s linear infinite;
+}
+
+@keyframes rotate {
+  from { transform: rotateY(0deg); }
+  to { transform: rotateY(360deg); }
+}
+
+.presentation-section {
+  position: absolute;
+  bottom: 20px;
+  left: 40px;
+}
+
+.presentation-photo {
+  width: 300px; /* Taille agrandie ici */
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.6);
+}
+
+.welcome-message {
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 140px auto 140px;
+  max-width: 500px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 15px;
+  margin-top: 30px;
+}
+
+.nav-button {
+  background-color: white;
+  color: #333;
+  padding: 12px 24px;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-weight: bold;
+}
+
+.nav-button:hover {
+  background-color: #e53935;
+  color: white;
+}
+
+/* Texte déroulant moderne */
+.scrolling-text {
+  width: 100%;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  padding: 10px 0;
+  position: relative;
+  font-weight: bold;
+  font-size: 1rem;
+}
+.marquee-bottom {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 999;
+}
+
+.scroll-content {
+  display: inline-block;
+  white-space: nowrap;
+  animation: scroll-left 20s linear infinite;
+  padding-left: 100%;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  padding: 2rem;
+}
+
+.main-content {
+  display: flex;
+  align-items: center; /* Centre verticalement les éléments */
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+.left-content,
+.right-content {
+  flex: 1;
+  padding: 1rem;
+}
+
+.center-content {
+  flex: 1;
+  text-align: center;
+  padding: 1rem;
+}
+
+.presentation-photo,
+.home-video {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .main-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .left-content,
+  .video-section {
+    width: 100%;
+    padding: 0;
+  }
+
+  .video-section {
+    margin-top: 1rem;
+  }
+}
+
+@keyframes scroll-left {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+

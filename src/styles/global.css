@@ -1,0 +1,30 @@
+/* src/styles/global.css */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background-image: url('../assets/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    color: white;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  h1, h2, h3, p {
+    color: white;
+  }
+  
+  .page-container {
+    padding: 40px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 50px auto;
+    max-width: 900px;
+    border-radius: 12px;
+  }
+  
+  
