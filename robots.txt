@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://alorientation202x.github.io/orientation-site/sitemap.xml
+Sitemap: https://alorientation202x.github.io/orientation-site/sitemap-riasec.xml
