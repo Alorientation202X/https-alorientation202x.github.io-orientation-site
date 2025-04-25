@@ -1,5 +1,7 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt pour GitHub Pages – orientoi
+
 User-agent: *
 Allow: /
 
-Sitemap: https://alorientation202x.github.io/orientation-site/sitemap-riasec.xml
+Sitemap: https://alorientation202x.github.io/orientation-site/sitemap.xml
+
