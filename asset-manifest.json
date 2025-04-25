@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.a42d5487.css",
-    "main.js": "/static/js/main.59a1def1.js",
-    "static/js/977.0d4135b6.chunk.js": "/static/js/977.0d4135b6.chunk.js",
-    "static/js/732.934c7448.chunk.js": "/static/js/732.934c7448.chunk.js",
-    "static/js/453.abe11993.chunk.js": "/static/js/453.abe11993.chunk.js",
-    "static/media/background.jpg": "/static/media/background.260cdbd28bb0cc4a646e.jpg",
-    "static/media/logo.png": "/static/media/logo.8d34b4ada8232baa1b9e.png",
-    "static/media/presentation.jpg": "/static/media/presentation.589396a242e623822503.jpg",
-    "index.html": "/index.html",
-    "main.a42d5487.css.map": "/static/css/main.a42d5487.css.map",
-    "main.59a1def1.js.map": "/static/js/main.59a1def1.js.map",
-    "977.0d4135b6.chunk.js.map": "/static/js/977.0d4135b6.chunk.js.map",
-    "732.934c7448.chunk.js.map": "/static/js/732.934c7448.chunk.js.map",
-    "453.abe11993.chunk.js.map": "/static/js/453.abe11993.chunk.js.map"
+    "main.css": "/orientation-site/static/css/main.a692a25d.css",
+    "main.js": "/orientation-site/static/js/main.7ec03931.js",
+    "static/js/977.0d4135b6.chunk.js": "/orientation-site/static/js/977.0d4135b6.chunk.js",
+    "static/js/732.934c7448.chunk.js": "/orientation-site/static/js/732.934c7448.chunk.js",
+    "static/js/453.abe11993.chunk.js": "/orientation-site/static/js/453.abe11993.chunk.js",
+    "static/media/background.jpg": "/orientation-site/static/media/background.260cdbd28bb0cc4a646e.jpg",
+    "static/media/logo.png": "/orientation-site/static/media/logo.8d34b4ada8232baa1b9e.png",
+    "static/media/presentation.jpg": "/orientation-site/static/media/presentation.589396a242e623822503.jpg",
+    "index.html": "/orientation-site/index.html",
+    "main.a692a25d.css.map": "/orientation-site/static/css/main.a692a25d.css.map",
+    "main.7ec03931.js.map": "/orientation-site/static/js/main.7ec03931.js.map",
+    "977.0d4135b6.chunk.js.map": "/orientation-site/static/js/977.0d4135b6.chunk.js.map",
+    "732.934c7448.chunk.js.map": "/orientation-site/static/js/732.934c7448.chunk.js.map",
+    "453.abe11993.chunk.js.map": "/orientation-site/static/js/453.abe11993.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a42d5487.css",
-    "static/js/main.59a1def1.js"
+    "static/css/main.a692a25d.css",
+    "static/js/main.7ec03931.js"
   ]
 }
