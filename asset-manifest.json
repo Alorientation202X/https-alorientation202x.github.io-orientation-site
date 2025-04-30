@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/orientation-site/static/css/main.7ae7e72f.css",
-    "main.js": "/orientation-site/static/js/main.82ec026a.js",
+    "main.css": "/orientation-site/static/css/main.ef82ecfc.css",
+    "main.js": "/orientation-site/static/js/main.93308667.js",
     "static/js/977.0d4135b6.chunk.js": "/orientation-site/static/js/977.0d4135b6.chunk.js",
     "static/js/732.934c7448.chunk.js": "/orientation-site/static/js/732.934c7448.chunk.js",
     "static/js/453.abe11993.chunk.js": "/orientation-site/static/js/453.abe11993.chunk.js",
     "static/media/background.jpg": "/orientation-site/static/media/background.260cdbd28bb0cc4a646e.jpg",
     "static/media/logo.png": "/orientation-site/static/media/logo.8d34b4ada8232baa1b9e.png",
-    "static/media/presentation.jpg": "/orientation-site/static/media/presentation.589396a242e623822503.jpg",
     "index.html": "/orientation-site/index.html",
-    "main.7ae7e72f.css.map": "/orientation-site/static/css/main.7ae7e72f.css.map",
-    "main.82ec026a.js.map": "/orientation-site/static/js/main.82ec026a.js.map",
+    "main.ef82ecfc.css.map": "/orientation-site/static/css/main.ef82ecfc.css.map",
+    "main.93308667.js.map": "/orientation-site/static/js/main.93308667.js.map",
     "977.0d4135b6.chunk.js.map": "/orientation-site/static/js/977.0d4135b6.chunk.js.map",
     "732.934c7448.chunk.js.map": "/orientation-site/static/js/732.934c7448.chunk.js.map",
     "453.abe11993.chunk.js.map": "/orientation-site/static/js/453.abe11993.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ae7e72f.css",
-    "static/js/main.82ec026a.js"
+    "static/css/main.ef82ecfc.css",
+    "static/js/main.93308667.js"
   ]
 }
